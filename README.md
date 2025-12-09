@@ -6,9 +6,7 @@
 
 ## 👨‍💻 About Me  
 
-I am a passionate **MCA student** and aspiring **Full-Stack Developer** with strong problem-solving abilities and hands-on experience in building modern web applications. I enjoy working with technologies like **React**, **Node.js**, and **Express**, and I’m always curious to learn and explore new tools.
-
-I’m currently seeking opportunities to apply my skills in real-world projects and contribute to dynamic development teams.
+I am a passionate **MCA student** and aspiring **Full-Stack Developer** with strong problem-solving skills and hands-on experience in modern web applications. I love working with **React**, **Node.js**, and **Express**, and constantly explore new technologies.
 
 ---
 
@@ -52,15 +50,6 @@ I’m currently seeking opportunities to apply my skills in real-world projects 
 
 ---
 
-## 🎓 Education  
-
-- 🎓 **MCA** | Gujarat Vidyapith, Ahmedabad *(Present)*  
-- 🎓 **BCA** | Smt. K. B. Parekh College, Mahuva *(2024)*  
-- 🏫 **XII (GSEB)** | K.K. High School, Savarkundla *(2021)*  
-- 🏫 **X (GSEB)** | B.M. Nandola, Bhacha *(2019)*  
-
----
-
 ## 🚀 Projects  
 
 ### 🔄 [Online Exchange](https://github.com/RavalAnkesh/Online-Exchange)  
@@ -72,18 +61,23 @@ Online jewellery store built using JSP and MySQL.
 **Tech Stack:** Servlet, JSP, MySQL  
 
 ### 👕 [Fashion Hub](https://github.com/RavalAnkesh/fashion-Hub)  
-Complete clothing e-commerce platform with CRUD features.  
+Complete clothing e-commerce website.  
 **Tech Stack:** MERN Stack (React, Node.js, Express, MongoDB)  
 
 ---
 
 ## 📊 GitHub Stats  
+
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=RavalAnkesh&show_icons=true&theme=radical" height="160"/>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=RavalAnkesh&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RavalAnkesh&show_icons=true&theme=radical" height="160" />
 </p>
+
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavalAnkesh&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RavalAnkesh&theme=radical" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavalAnkesh&layout=compact&theme=radical" height="160" />
 </p>
 
 ---
