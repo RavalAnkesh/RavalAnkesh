@@ -61,7 +61,7 @@ Online jewellery store built using JSP and MySQL.
 **Tech Stack:** Servlet, JSP, MySQL  
 
 ### 👕 [Fashion Hub](https://github.com/RavalAnkesh/fashion-Hub)  
-Complete clothing e-commerce website.  
+Complete E-commerce website for cloths.  
 **Tech Stack:** MERN Stack (React, Node.js, Express, MongoDB)  
 
 ---
