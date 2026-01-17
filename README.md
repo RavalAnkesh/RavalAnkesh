@@ -7,6 +7,15 @@
 </p>
 
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=F78166&center=true&vCenter=true&width=520&lines=Full-Stack+Web+Developer+%7C+MERN+Stack" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=21&pause=900&color=7CE38B&center=true&vCenter=true&width=520&lines=MERN+Stack+Developer;Building+Scalable+Web+Apps;Learning+Every+Day" />
+</p>
+
+
 ---
 
 ## 👨‍💻 About Me  
