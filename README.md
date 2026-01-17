@@ -3,19 +3,8 @@
 📍 Gujarat, India  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=gradient&center=true&width=520&lines=FullStack+Developer;MERN+Stack+|+Problem+Solver" />
-</p>
-
-
-<p align="center">
   <strong style="font-size:22px;color:#1ABC9C;">FullStack Web Developer | MERN Stack | Problem Solver</strong>
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1500&color=1ABC9C&center=true&width=500&lines=FullStack+Web+Developer+%7C+MERN+Stack+%7C+Problem+Solver" />
-</p>
-
-
 
 ---
 
