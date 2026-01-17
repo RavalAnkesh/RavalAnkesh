@@ -3,21 +3,21 @@
 📍 Gujarat, India 🇮🇳  
 
 <p align="center">
-  <em>Building scalable web applications & continuously learning modern technologies</em>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;MERN+Stack+Developer;MCA+Student;Problem+Solver;Lifelong+Learner" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me  
 
-I’m a passionate **MCA student** and **Full-Stack Developer** who enjoys turning ideas into real-world applications.  
-I specialize in **JavaScript-based stacks**, backend logic, and database design, with a strong interest in **clean code** and **problem solving**.
+I’m a passionate **MCA student** and aspiring **Full-Stack Developer** with a strong interest in building scalable, real-world web applications.  
+I enjoy working across the stack—from designing responsive UIs to implementing backend logic and databases.
 
-✨ What I enjoy:
-- Developing full-stack web applications  
-- Solving DSA & logical problems  
-- Learning new frameworks and tools  
-- Writing maintainable & scalable code  
+💡 **What I focus on:**
+- Full-stack web development  
+- Clean & maintainable code  
+- Problem solving & DSA  
+- Learning modern technologies  
 
 ---
 
@@ -65,38 +65,42 @@ I specialize in **JavaScript-based stacks**, backend logic, and database design,
 
 ### 🔄 Online Exchange  
 🔗 https://github.com/RavalAnkesh/Online-Exchange  
-🛒 E-commerce platform for buying & selling products  
+🛒 Platform to buy & sell products  
 **Tech:** React.js, Node.js  
 
 ### 💍 Jewellery Shop  
 🔗 https://github.com/RavalAnkesh/Jwellary-shop  
-💎 Online jewellery store with authentication & product management  
+💎 Online jewellery management system  
 **Tech:** JSP, Servlet, MySQL  
 
 ### 👕 Fashion Hub  
 🔗 https://github.com/RavalAnkesh/fashion-Hub  
-🛍️ Full-featured clothing e-commerce website  
+🛍️ Complete clothing e-commerce platform  
 **Tech:** MERN Stack (React, Node.js, Express, MongoDB)  
 
 ---
 
 ## 📊 GitHub Stats  
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RavalAnkesh&show_icons=true&theme=radical&rank_icon=github&cache_seconds=86400"/>
-</div>
+</p>
 
-<br/>
-
-<div align="center">
+<p align="center">
   <img src="https://github-readme-streak-stats.vercel.app?user=RavalAnkesh&theme=radical&cache_seconds=86400"/>
-</div>
+</p>
 
-<br/>
-
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavalAnkesh&layout=compact&theme=radical&cache_seconds=86400"/>
-</div>
+</p>
+
+---
+
+## 🐍 Contribution Graph  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RavalAnkesh/RavalAnkesh/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
