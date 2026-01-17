@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ankesh Raval  
 🚀 **Full-Stack Web Developer | MCA Student | Problem Solver**  
-📍 Gujarat, India 🇮🇳  
+📍 Gujarat, India  
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;MERN+Stack+Developer;MCA+Student;Problem+Solver;Lifelong+Learner" />
