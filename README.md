@@ -68,17 +68,22 @@ Complete E-commerce website for cloths.
 
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RavalAnkesh&show_icons=true&theme=radical" height="160" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RavalAnkesh&show_icons=true&theme=radical&cache_seconds=86400" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RavalAnkesh&theme=radical" height="160" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavalAnkesh&layout=compact&theme=radical" height="160" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RavalAnkesh&theme=radical&cache_seconds=86400" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavalAnkesh&layout=compact&theme=radical&cache_seconds=86400" />
+</div>
+
 
 ---
 
