@@ -3,17 +3,18 @@
 📍 Gujarat, India  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=480&lines=Full-Stack+Web+Developer;MERN+Stack+Enthusiast;MCA+Student+%7C+Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=gradient&center=true&width=520&lines=FullStack+Developer;MERN+Stack+|+Problem+Solver" />
 </p>
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=F78166&center=true&vCenter=true&width=520&lines=Full-Stack+Web+Developer+%7C+MERN+Stack" />
+  <strong style="font-size:22px;color:#1ABC9C;">FullStack Web Developer | MERN Stack | Problem Solver</strong>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=21&pause=900&color=7CE38B&center=true&vCenter=true&width=520&lines=MERN+Stack+Developer;Building+Scalable+Web+Apps;Learning+Every+Day" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1500&color=1ABC9C&center=true&width=500&lines=FullStack+Web+Developer+%7C+MERN+Stack+%7C+Problem+Solver" />
 </p>
+
 
 
 ---
