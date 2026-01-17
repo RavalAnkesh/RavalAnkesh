@@ -80,8 +80,6 @@ I enjoy working across the stack—from designing responsive UIs to implementing
 
 ## 📊 GitHub Stats  
 
-https://github-readme-stats.vercel.app/api?username=RavalAnkesh&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=RavalAnkesh&show_icons=true&theme=radical
-
 
 <p align="center">
   <img src="https://github-readme-streak-stats.vercel.app?user=RavalAnkesh&theme=radical&cache_seconds=86400"/>
