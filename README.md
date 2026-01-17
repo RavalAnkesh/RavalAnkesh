@@ -103,7 +103,19 @@ I enjoy working across the stack—from designing responsive UIs to implementing
 </p>
 
 ---
+## 🧠 Coding Practice
 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/RavalAnkesh?theme=dark&font=Baloo&ext=heatmap" />
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/RavalAnkesh/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+</p>
+
+---
 ## 📬 Let’s Connect  
 
 <p>
