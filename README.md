@@ -3,8 +3,9 @@
 📍 Gujarat, India  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;MERN+Stack+Developer;MCA+Student;Problem+Solver;Lifelong+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=480&lines=Full-Stack+Web+Developer;MERN+Stack+Enthusiast;MCA+Student+%7C+Problem+Solver" />
 </p>
+
 
 ---
 
@@ -96,7 +97,7 @@ I enjoy working across the stack—from designing responsive UIs to implementing
 
 ---
 
-## 🐍 Contribution Graph  
+##  Contribution Graph  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/RavalAnkesh/RavalAnkesh/output/github-contribution-grid-snake.svg" />
