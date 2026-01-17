@@ -81,11 +81,11 @@ I enjoy working across the stack—from designing responsive UIs to implementing
 ## 📊 GitHub & Activity Highlights
 
 <p align="center">
-  <img src="https://animated-profile-stats.vercel.app/api/card?username=RavalAnkesh&type=fire" alt="Profile Card"/>
+  <img src="https://animated-profile-stats.vercel.app/api/card?username=RavalAnkesh&type=fire" alt="Profile Stats Card" />
 </p>
 
 <p align="center">
-  <img src="https://githubreadmestatsfast.vercel.app/api?username=RavalAnkesh&show_icons=true&theme=radical" alt="Fast GitHub Stats" />
+  <img src="https://githubreadmestatsfast.vercel.app/api?username=RavalAnkesh&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
