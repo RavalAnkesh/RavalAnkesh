@@ -2,9 +2,7 @@
 🚀 **Full-Stack Web Developer | MCA Student | Problem Solver**  
 📍 Gujarat, India  
 
-<p align="center">
-  <strong style="font-size:22px;color:#1ABC9C;">FullStack Web Developer | MERN Stack | Problem Solver</strong>
-</p>
+
 
 ---
 
