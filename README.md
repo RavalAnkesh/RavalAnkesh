@@ -78,16 +78,28 @@ I enjoy working across the stack—from designing responsive UIs to implementing
 
 ---
 
-## 📊 GitHub Stats  
-
+## 📊 GitHub & Activity Highlights
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app?user=RavalAnkesh&theme=radical&cache_seconds=86400"/>
+  <img src="https://animated-profile-stats.vercel.app/api/card?username=RavalAnkesh&type=fire" alt="Profile Card"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavalAnkesh&layout=compact&theme=radical&cache_seconds=86400"/>
+  <img src="https://githubreadmestatsfast.vercel.app/api?username=RavalAnkesh&show_icons=true&theme=radical" alt="Fast GitHub Stats" />
 </p>
+
+<p align="center">
+  <img src="https://githubreadmestatsfast.vercel.app/api/top-langs/?username=RavalAnkesh&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/RavalAnkesh/count.svg" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RavalAnkesh&theme=radical&column=6" alt="GitHub Trophy" />
+</p>
+
 
 ---
 
