@@ -1,6 +1,19 @@
 <h1 align="center">Hi, I'm Ankesh Raval 👋</h1>
-<p align="center">Full-Stack Web Developer | Problem Solver | Tech Enthusiast</p>
+<p align="center">Full-Stack Web Developer | Problem Solver | Tech Enthusiast
+<br>
+📍 Gujarat, India
+</p>
 
+---
+## 👨‍💻 About Me  
+
+I’m a passionate **MCA student** and aspiring **Full-Stack Developer** with experience in building real-world web applications.  
+
+💡 **What I focus on:**
+- Building scalable full-stack web apps  
+- Writing clean & maintainable code  
+- Problem-solving & DSA challenges  
+- Learning and implementing modern technologies  
 
 
 ---
