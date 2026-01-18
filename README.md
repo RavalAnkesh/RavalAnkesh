@@ -2,9 +2,7 @@
 <p align="center">Full-Stack Web Developer | Problem Solver | Tech Enthusiast</p>
 
 
-# 👋 Hi, I'm Ankesh Raval  
-🚀 **Full-Stack Web Developer | MCA Student | Problem Solver**  
-📍 Gujarat, India  
+
 ---
 
 ## 👨‍💻 About Me  
@@ -104,22 +102,6 @@ I enjoy working across the stack—from designing responsive UIs to implementing
 <p align="center">
   <a href="https://leetcode.com/RavalAnkesh/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-</p>
-------
-
-<p align="center">
-  <a href="mailto:ravalankesh2004@gmail.com" title="Email">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="36"/>
-  </a>
-  <a href="https://github.com/ravalankesh" title="GitHub">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ravalankesh/" title="LinkedIn">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="36"/>
-  </a>
-  <a href="https://t.me/RavalAnkesh" title="Telegram">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="36"/>
   </a>
 </p>
 
