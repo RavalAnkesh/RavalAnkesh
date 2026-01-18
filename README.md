@@ -15,6 +15,23 @@ I enjoy working across the stack—from designing responsive UIs to implementing
 - Clean & maintainable code  
 - Problem solving & DSA  
 - Learning modern technologies  
+---
+## 🛠️ Tech Stack  
+
+### 💻 Languages  
+**Java · JavaScript · Python · C · C++**
+
+### 🎨 Frontend  
+**HTML5 · CSS3 · React.js**
+
+### ⚙️ Backend  
+**Node.js · Express.js · Django · .NET**
+
+### 🗄️ Databases  
+**MySQL · MongoDB · Oracle**
+
+### 🧰 Tools & Platforms  
+**Git · GitHub · VS Code · NPM · Postman**
 
 ---
 ## 🛠️ Tech Stack  
