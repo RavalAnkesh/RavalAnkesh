@@ -34,7 +34,7 @@ I enjoy working across the stack—from designing responsive UIs to implementing
 **Tools & Platforms**
 - Git, GitHub, VS Code, NPM, Postman
 
----
+/*---
 
 ## 🛠️ Tech Stack  
 
@@ -74,7 +74,7 @@ I enjoy working across the stack—from designing responsive UIs to implementing
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="42"/>
 </p>
 
----
+---*/
 
 ## 🚀 Featured Projects  
 
