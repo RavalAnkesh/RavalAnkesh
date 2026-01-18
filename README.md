@@ -78,7 +78,7 @@ I enjoy working across the stack—from designing responsive UIs to implementing
 ## 📊 GitHub & Activity Highlights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RavalAnkesh&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RavalAnkesh&show_icons=true&theme=radical"/>
 </p>
 
 <p align="center">
