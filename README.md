@@ -41,7 +41,7 @@ I enjoy working across the stack—from designing responsive UIs to implementing
 ---
 ## 🚀 Featured Projects  
 
-### 👕 **Fashion Hub** *(Pinned #1)*  
+### 👕 **Fashion Hub**  
 🔗 https://github.com/RavalAnkesh/fashion-Hub  
 
 🛍️ **Full-stack e-commerce platform** for browsing, managing, and purchasing clothing products with user authentication, shopping cart, and order management.  
@@ -57,7 +57,7 @@ I enjoy working across the stack—from designing responsive UIs to implementing
 
 ---
 
-### 🔄 **Online Exchange** *(Pinned #2)*  
+### 🔄 **Online Exchange**  
 🔗 https://github.com/RavalAnkesh/Online-Exchange  
 
 🛒 **Online marketplace platform** to list, browse, and exchange products with modular UI components and a clean backend architecture.  
@@ -73,7 +73,7 @@ I enjoy working across the stack—from designing responsive UIs to implementing
 
 ---
 
-### 💍 **Jewellery Shop** *(Pinned #3)*  
+### 💍 **Jewellery Shop**   
 🔗 https://github.com/RavalAnkesh/Jwellary-shop  
 
 💎 **Java-based jewellery management system** for managing products, customers, and transactions efficiently.  
