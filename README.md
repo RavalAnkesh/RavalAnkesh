@@ -79,9 +79,14 @@ I enjoy working across the stack—from designing responsive UIs to implementing
 
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RavalAnkesh&show_icons=true&theme=radical"/>
-<img src="https://streak-stats.demolab.com?user=RavalAnkesh&theme=radical"/>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RavalAnkesh&layout=compact&theme=radical"/>
+</p>
 
+<p align = "center">
+  <img src="https://streak-stats.demolab.com?user=RavalAnkesh&theme=radical"/>
+</p>
+
+<p align ="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RavalAnkesh&layout=compact&theme=radical"/>
 </p>
 
 
