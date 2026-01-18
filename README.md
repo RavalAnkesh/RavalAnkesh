@@ -4,23 +4,6 @@
 📍 Gujarat, India
 </p>
 
----
-## 🛠️ Tech Stack
-
-### 💻 Languages
-> **Java · JavaScript · Python · C · C++**
-
-### 🎨 Frontend
-> **HTML5 · CSS3 · React.js**
-
-### ⚙️ Backend
-> **Node.js · Express.js · Django · .NET**
-
-### 🗄️ Databases
-> **MySQL · MongoDB · Oracle**
-
-### 🧰 Tools & Platforms
-> **Git · GitHub · VS Code · NPM · Postman**
 
 ---
 
