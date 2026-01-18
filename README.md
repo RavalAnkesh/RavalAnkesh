@@ -39,20 +39,51 @@ I enjoy working across the stack—from designing responsive UIs to implementing
 ---
 ## 🚀 Featured Projects  
 
-### 🔄 Online Exchange  
-🔗 https://github.com/RavalAnkesh/Online-Exchange  
-🛒 Platform to buy & sell products  
-**Tech:** React.js, Node.js  
-
-### 💍 Jewellery Shop  
-🔗 https://github.com/RavalAnkesh/Jwellary-shop  
-💎 Online jewellery management system  
-**Tech:** JSP, Servlet, MySQL  
-
-### 👕 Fashion Hub  
+### 👕 **Fashion Hub** *(Pinned #1)*  
 🔗 https://github.com/RavalAnkesh/fashion-Hub  
-🛍️ Complete clothing e-commerce platform  
-**Tech:** MERN Stack (React, Node.js, Express, MongoDB)  
+
+🛍️ **Full-stack e-commerce platform** for browsing, managing, and purchasing clothing products with user authentication, shopping cart, and order management.  
+
+**Key Features:**
+- User signup/login and authentication  
+- Product catalog with filtering & search  
+- Shopping cart and checkout workflow  
+- Admin panel for product management  
+
+**Tech Stack:**  
+**Frontend:** React.js · **Backend:** Node.js, Express.js · **Database:** MongoDB · **Tools:** Git, VS Code, NPM · **Other:** REST APIs, JWT Authentication  
+
+---
+
+### 🔄 **Online Exchange** *(Pinned #2)*  
+🔗 https://github.com/RavalAnkesh/Online-Exchange  
+
+🛒 **Online marketplace platform** to list, browse, and exchange products with modular UI components and a clean backend architecture.  
+
+**Key Features:**
+- Product listing and search functionality  
+- User authentication  
+- Buy & sell workflow management  
+- Modular frontend components for scalability  
+
+**Tech Stack:**  
+**Frontend:** React.js · **Backend:** Node.js, Express.js · **Database:** MongoDB · **Tools:** Git, VS Code, NPM · **Other:** RESTful API  
+
+---
+
+### 💍 **Jewellery Shop** *(Pinned #3)*  
+🔗 https://github.com/RavalAnkesh/Jwellary-shop  
+
+💎 **Java-based jewellery management system** for managing products, customers, and transactions efficiently.  
+
+**Key Features:**
+- Admin panel for product management  
+- Customer data & transaction management  
+- Secure database interactions  
+- MVC architecture with JSP & Servlets  
+
+**Tech Stack:**  
+**Backend:** JSP, Servlet · **Database:** MySQL · **Tools:** Eclipse / VS Code, Git
 
 ---
 
