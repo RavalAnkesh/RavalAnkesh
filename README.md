@@ -5,16 +5,22 @@
 </p>
 
 ---
-## 👨‍💻 About Me  
+## 🛠️ Tech Stack
 
-I’m a passionate **MCA student** and aspiring **Full-Stack Developer** with experience in building real-world web applications.  
+### 💻 Languages
+> **Java · JavaScript · Python · C · C++**
 
-💡 **What I focus on:**
-- Building scalable full-stack web apps  
-- Writing clean & maintainable code  
-- Problem-solving & DSA challenges  
-- Learning and implementing modern technologies  
+### 🎨 Frontend
+> **HTML5 · CSS3 · React.js**
 
+### ⚙️ Backend
+> **Node.js · Express.js · Django · .NET**
+
+### 🗄️ Databases
+> **MySQL · MongoDB · Oracle**
+
+### 🧰 Tools & Platforms
+> **Git · GitHub · VS Code · NPM · Postman**
 
 ---
 
