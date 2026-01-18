@@ -1,23 +1,6 @@
 # 👋 Hi, I'm Ankesh Raval  
 🚀 **Full-Stack Web Developer | MCA Student | Problem Solver**  
 📍 Gujarat, India  
-
-
----
-Hi, I’m Ankesh 👋
-📍 Gujarat, India
-
-💼 Full-Stack Web Developer | MCA Student
-
-🔭 I’m currently working on…
-🌱 I’m learning…
-👯 I’m open to collaborate on…
-
-📫 How to reach me:
-🌐 LinkedIn | Portfolio | Email
-
-⭐ Featured Projects
-
 ---
 
 ## 👨‍💻 About Me  
