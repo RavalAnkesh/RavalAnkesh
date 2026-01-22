@@ -46,7 +46,7 @@ I enjoy working across the stack—from designing responsive UIs to implementing
 🛍️ **Full-stack e-commerce platform** for browsing, managing, and purchasing clothing products with user authentication, shopping cart, and order management.  
 
 **Key Features:**
-- User signup/login and authentication  
+- User signup/login and authentication.  
 - Product catalog with filtering & search.  
 - Shopping cart and checkout workflow.  
 - Admin panel for product management.  
