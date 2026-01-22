@@ -47,9 +47,9 @@ I enjoy working across the stack—from designing responsive UIs to implementing
 
 **Key Features:**
 - User signup/login and authentication  
-- Product catalog with filtering & search  
-- Shopping cart and checkout workflow  
-- Admin panel for product management  
+- Product catalog with filtering & search.  
+- Shopping cart and checkout workflow.  
+- Admin panel for product management.  
 
 **Tech Stack:**  
 **Frontend:** React.js · **Backend:** Node.js, Express.js · **Database:** MongoDB · **Tools:** Git, VS Code, NPM · **Other:** REST APIs, JWT Authentication  
