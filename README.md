@@ -15,7 +15,7 @@ I enjoy working across the stack—from designing responsive UIs to implementing
 - Full-stack web development.  
 - Clean & maintainable code.  
 - Problem solving & DSA.  
-- Learning modern technologies.
+- Learning modern technologies
 
   
 ---
