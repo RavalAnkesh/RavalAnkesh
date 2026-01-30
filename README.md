@@ -17,7 +17,7 @@ I enjoy working across the stack—from designing responsive UIs to implementing
 - Problem solving & DSA.  
 - Learning modern technologies
 
-  
+
 ---
 
 ## 🛠️ Tech Stack
