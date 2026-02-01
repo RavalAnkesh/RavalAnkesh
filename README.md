@@ -12,7 +12,7 @@ I’m a passionate **MCA student** and aspiring **Full-Stack Developer** with a 
 I enjoy working across the stack—from designing responsive UIs to implementing backend logic and databases.
 
 💡 **What I focus on:**
-- Full-stack web development.  
+- Full-stack web development  
 - Clean & maintainable code  
 - Problem solving & DSA  
 - Learning modern technologies
