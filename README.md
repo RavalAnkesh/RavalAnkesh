@@ -14,7 +14,7 @@ I enjoy working across the stack—from designing responsive UIs to implementing
 💡 **What I focus on:**
 - Full-stack web development.  
 - Clean & maintainable code.  
-- Problem solving & DSA.  
+- Problem solving & DSA  
 - Learning modern technologies
 
 
