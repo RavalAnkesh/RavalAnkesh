@@ -42,7 +42,7 @@ I enjoy working across the stack—from designing responsive UIs to implementing
 ### 👕 **Fashion Hub**  
 🔗 https://github.com/RavalAnkesh/fashion-Hub  
 
-🛍️ **Full-stack e-commerce platform** for browsing, managing, and purchasing clothing products with user authentication, shopping cart, and order management.  
+🛍️ **Full-stack e-commerce platform** for browsing, managing, and purchasing clothing products with user authentication, shopping cart, and order management
 
 **Key Features:**
 - User signup/login and authentication.  
