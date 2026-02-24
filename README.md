@@ -61,7 +61,7 @@ I enjoy working across the stack—from designing responsive UIs to implementing
 🛒 **Online marketplace platform** to list, browse, and exchange products with modular UI components and a clean backend architecture.  
 
 **Key Features:**
-- Product listing and search functionality  
+- Product listing and search functionality.  
 - User authentication  
 - Buy & sell workflow management  
 - Modular frontend components for scalability  
