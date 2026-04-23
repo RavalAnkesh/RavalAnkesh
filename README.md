@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me  
 
-I’m a passionate **MCA student** and aspiring **Full-Stack Developer** with a strong interest in building scalable, real-world web applications.  
+I’m a passionate **MCA student** and aspiring **Full-Stack Developer** with a strong interest in building scalable and real-world web applications.  
 I enjoy working across the stack—from designing responsive UIs to implementing backend logic and databases.
 
 💡 **What I focus on:**
